@@ -1,6 +1,8 @@
 Technologies and Concepts Used in the Course
 Java (Object-Oriented Programming, OOP)
 
+![Screenshot 2024-10-19 160421](https://github.com/user-attachments/assets/d955ec4e-a533-4486-9d34-0a0574a762eb)
+
 Java is a popular programming language widely used for building various types of applications, from web applications to mobile and enterprise systems. One of the key features of Java is platform independence, achieved through the Java Virtual Machine (JVM).
 Key Concepts in Java:
 
@@ -11,6 +13,9 @@ Polymorphism: This enables one interface to be used for a general class of actio
 Abstraction: This is the concept of hiding the complex implementation details and showing only the essential features of an object.
 IntelliJ IDEA (Integrated Development Environment, IDE)
 
+
+![Screenshot 2024-10-19 160445](https://github.com/user-attachments/assets/684a39a2-f6d9-4f46-9c71-9483588154e0)
+
 IntelliJ IDEA is a powerful IDE used for writing and running Java code. It provides various features that enhance productivity in code development, such as auto-completion, refactoring, version control integration (e.g., Git), debugging, and project management.
 Key Features of IntelliJ IDEA used in the course:
 
@@ -19,12 +24,18 @@ Code Refactoring: Improving the structure of the code without changing its funct
 Plugin Management: Installing plugins like Rainbow Brackets to enhance code readability and the development experience.
 JVM (Java Virtual Machine)
 
+![Screenshot 2024-10-19 160508](https://github.com/user-attachments/assets/1ed1c3ce-ca1d-4750-9c6a-22d1fd19e307)
+
+
 The Java Virtual Machine (JVM) is the engine that runs Java applications. It takes Java bytecode and translates it into machine code that can be executed by the host platform. JVM makes Java platform-independent, allowing Java applications to run on any platform that has a JVM installed.
 The JVM also manages memory, garbage collection, and ensures runtime security.
 Telegram API and Bot Development
 
 Telegram API allows developers to create bots that can interact with users within the Telegram messaging platform. The course covers how to register a bot using BotFather, retrieve the bot token, and use key methods to process user messages.
 Key Telegram API methods covered in the course:
+
+![Screenshot 2024-10-19 160527](https://github.com/user-attachments/assets/417ea7a2-251b-48b3-9c2e-ff002afd598a)
+
 
 onUpdateEventReceived(): This method listens for updates (messages) sent by users to the bot.
 sendTextMessageAsync(): This method sends text messages to users asynchronously.
